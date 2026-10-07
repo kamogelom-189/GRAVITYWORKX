@@ -1,0 +1,6 @@
+@GRAVITYWORKX_HostAddress = http://localhost:5049
+
+GET {{GRAVITYWORKX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
